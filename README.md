@@ -28,11 +28,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hombre2014&show_icons=true&locale=en&layout=compact" alt="hombre2014" /></p></br>
 
----
+<!-- ---
 
-<h3 align="center">Some of my projects</h3></br>
+<h3 align="center">Some of my projects</h3></br> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Conference-page)](https://github.com/Hombre2014/Conference-page)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Conference-page)](https://github.com/Hombre2014/Conference-page)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=My-portfolio)](https://github.com/Hombre2014/My-portfolio)
 
@@ -42,7 +43,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=ROCK-PAPER-SCISSORS)](https://github.com/Hombre2014/ROCK-PAPER-SCISSORS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=etch-a-sketch)](https://github.com/Hombre2014/etch-a-sketch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=etch-a-sketch)](https://github.com/Hombre2014/etch-a-sketch) -->
 
 ---
 
