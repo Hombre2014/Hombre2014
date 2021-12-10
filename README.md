@@ -32,17 +32,17 @@
 
 <h3 align="center">Some of my projects</h3></br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Conference-page)](https://github.com/Hombre2014/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Conference-page)](https://github.com/Hombre2014/Conference-page)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=My-portfolio)](https://github.com/Hombre2014/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=My-portfolio)](https://github.com/Hombre2014/My-portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=calculator)](https://github.com/Hombre2014/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=calculator)](https://github.com/Hombre2014/calculator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=ROCK-PAPER-SCISSORS)](https://github.com/Hombre2014/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=ROCK-PAPER-SCISSORS)](https://github.com/Hombre2014/ROCK-PAPER-SCISSORS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=etch-a-sketch)](https://github.com/Hombre2014/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=etch-a-sketch)](https://github.com/Hombre2014/etch-a-sketch)
 ---
 
 <h3 align="center">Languages and Tools:</h3></br>
