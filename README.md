@@ -67,16 +67,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80" style="margin-right: 1rem; vertical-align: -95%;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80" style="margin-right: 1rem; vertical-align: -95% !important;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 1rem;" />
   </a>
 </p>
 
-
 ---
 
+</br>
 <p align="left"> <a href="https://twitter.com/chamkoriyski" target="blank">
 <img src="https://img.shields.io/twitter/follow/chamkoriyski?logo=twitter&style=for-the-badge" alt="chamkoriyski" />
 </a>
