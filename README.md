@@ -22,7 +22,12 @@
 
 ---
 <h3 align="center">Some statistics from GitHub</h3></br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hombre2014" alt="hombre2014" /></a> </p></br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hombre2014&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hombre2014" alt="hombre2014" /></a> </p></br> -->
+
+<a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hombre2014&show_icons=true&locale=en" alt="hombre2014" /></p></br>
 
