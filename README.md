@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
 <h3 align="center">A passionate frontend developer, learning full-stack</h3></br>
-<p>Student at Microverse Full stack web developer program. Learning front and back end web development with HTML, CSS, JavaScript, React, and Ruby on Rails.</p></br>
+<p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby and Ruby on Rails.</p>
+<p>Looking for a new opportunity as a remote web developer.</p></br>
 
 ---
 
@@ -8,7 +9,8 @@
 
 - 🌱 I’m currently learning **Well, ... many things**
 
-- 📫 How to reach me **chamkoriyski@gmail.com**
+- 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
+- Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
 
 </br>
 <h3 align="left">Connect with me:</h3>
