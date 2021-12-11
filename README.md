@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
-<h3 align="center">A passionate frontend developer, learning full-stack</h3></br>
+<h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
 <p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby and Ruby on Rails.</p>
 <p>Looking for a new opportunity as a remote web developer.</p></br>
 
@@ -10,11 +10,11 @@
 - 🌱 I’m currently learning **Well, ... many things**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
-- Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
+-  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
 
 </br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/chamkoriyski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamkoriyski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/axebit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axebit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chamkoriyski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamkoriyski" height="30" width="40" /></a>
