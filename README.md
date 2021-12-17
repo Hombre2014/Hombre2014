@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
 <h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
 <p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby and Ruby on Rails.</p>
-<p>Looking for a new opportunity as a remote web developer.</p></br>
+<p>Looking for a new opportunity as a remote web developer.</p>
+
+What I have build:</br>
+From a single static web site: [Helianheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
+To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https://heliantheae.bg/en)
 
 ---
 
-- 🔭 I’m currently working on [ToDo List](https://github.com/Hombre2014/ToDoList)
+- 🔭 I’m currently working on [ToDo List](https://github.com/Hombre2014/ToDoList/dist)
 
-- 🌱 I’m currently learning **Well, ... many things**
+- 🌱 I’m currently learning: **React, Jest**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
 -  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
@@ -25,28 +29,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hombre2014&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hombre2014" alt="hombre2014" /></a> </p></br> -->
 
-<a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hombre2014&show_icons=true&locale=en" alt="hombre2014" /></p></br>
+</br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hombre2014&show_icons=true&locale=en" alt="hombre2014" /></p></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hombre2014&" alt="hombre2014" /></p></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hombre2014&show_icons=true&locale=en&layout=compact" alt="hombre2014" /></p></br>
 
-<!-- ---
+---
 
-<h3 align="center">Some of my projects</h3></br> -->
+<h3 align="center">Some of my other projects</h3></br>
 
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Conference-page)](https://github.com/Hombre2014/Conference-page)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=My-portfolio)](https://github.com/Hombre2014/My-portfolio)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=calculator)](https://github.com/Hombre2014/calculator)
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=portfolio)](https://hombre2014.github.io/portfolio/dist/index.html)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=ROCK-PAPER-SCISSORS)](https://github.com/Hombre2014/ROCK-PAPER-SCISSORS)
 
