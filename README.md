@@ -9,7 +9,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on [ToDo List](https://github.com/Hombre2014/ToDoList/dist)
+- 🔭 I’m currently working on [ToDo List](https://hombre2014.github.io/ToDoList/dist/)
 
 - 🌱 I’m currently learning: **React, Jest**
 
@@ -17,7 +17,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 -  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
 
 </br>
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/chamkoriyski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamkoriyski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/axebit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axebit" height="30" width="40" /></a>
@@ -25,7 +25,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 </p>
 
 ---
-<h3 align="center">Some statistics from GitHub</h3></br>
+<h2 align="center">Some statistics from GitHub</h2></br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hombre2014&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -38,7 +38,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-<h3 align="center">Some of my other projects</h3></br>
+<h2 align="center">Some of my other projects</h2></br>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
@@ -51,7 +51,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 </br>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
