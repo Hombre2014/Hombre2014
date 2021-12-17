@@ -4,7 +4,7 @@
 <p>Looking for a new opportunity as a remote web developer.</p>
 
 What I have build:</br>
-From a single static web site: [Helianheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
+From a single static web site: [Heliantheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
 To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https://heliantheae.bg/en)
 
 ---
@@ -25,6 +25,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 </p>
 
 ---
+
 <h2 align="center">Some statistics from GitHub</h2></br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hombre2014&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -42,6 +43,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
+
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=portfolio)](https://hombre2014.github.io/portfolio/dist/index.html)
 
