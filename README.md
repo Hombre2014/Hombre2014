@@ -3,13 +3,13 @@
 <p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby and Ruby on Rails.</p>
 <p>Looking for a new opportunity as a remote web developer.</p>
 
-What I have build:</br>
+What I have build in the past:</br>
 From a single static web site: [Heliantheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
 To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https://heliantheae.bg/en)
 
 ---
 
-- 🔭 I’m currently working on [The Leader's board](https://hombre2014.github.io/Leaderboard/dist/)
+- 🔭 I’m currently working on ... getting ready for **React**
 
 - 🌱 I’m currently learning: **React, Jest, REST API**
 
@@ -45,6 +45,8 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project)
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=portfolio)](https://hombre2014.github.io/portfolio/dist/index.html)
