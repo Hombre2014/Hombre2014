@@ -9,7 +9,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: **Math magicians**
+- 🔭 I’m currently working on: [Math magicians project](https://github.com/Hombre2014/math-magicians)
 
 - 🌱 I’m currently learning: **React, Jest, REST API**
 
