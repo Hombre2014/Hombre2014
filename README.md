@@ -9,7 +9,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [Math magicians project](https://github.com/Hombre2014/math-magicians)
+- 🔭 I’m currently working on: [Space Travellers' Hub](https://github.com/Hombre2014/space-travelers)
 
 - 🌱 I’m currently learning: **React, Redux**
 
@@ -50,12 +50,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians)
 
-<!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=portfolio)](https://hombre2014.github.io/portfolio/dist/index.html)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=ROCK-PAPER-SCISSORS)](https://github.com/Hombre2014/ROCK-PAPER-SCISSORS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=etch-a-sketch)](https://github.com/Hombre2014/etch-a-sketch) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store)
 
 ---
 
