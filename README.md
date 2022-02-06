@@ -9,7 +9,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [Space Travellers' Hub](https://github.com/Hombre2014/space-travelers)
+- 🔭 I’m currently working on: React Redux Capstone project
 
 - 🌱 I’m currently learning: **React, Redux**
 
@@ -51,6 +51,8 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Space-Travelers)](https://github.com/Hombre2014/Space-Travelers)
 
 ---
 
