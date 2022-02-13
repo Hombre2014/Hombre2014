@@ -22,6 +22,10 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 <a href="https://twitter.com/chamkoriyski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamkoriyski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/axebit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axebit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chamkoriyski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamkoriyski" height="30" width="40" /></a>
+<a href="https://codepen.io/@hombre2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hombre2014" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hombre2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hombre2014" height="30" width="40" /></a>
+<a href="https://codesandbox.com/hombre2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hombre2014" height="30" width="40" /></a>
+<a href="https://medium.com/@chamkoriyski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamkoriyski" height="30" width="40" /></a>
 </p>
 
 ---
@@ -38,22 +42,6 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-<h2 align="center">Some of my other projects</h2></br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Space-Travelers)](https://github.com/Hombre2014/Space-Travelers)
-
----
-
 <h2 align="center">Languages and Tools:</h2>
 </br>
 <p align="left">
@@ -65,7 +53,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 1rem;"/>
@@ -73,31 +61,50 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 1rem;"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80" style="margin-right: 1rem; vertical-align: -95% !important;"/>
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 1rem;" />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="margin-right: 1rem;"/>
+  </a>
+  <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h2 align="center">Some of me recent projects</h2></br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Space-Travelers)](https://github.com/Hombre2014/Space-Travelers)
 
 ---
 
