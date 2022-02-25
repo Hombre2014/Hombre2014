@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
 <h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
-<p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby and Ruby on Rails.</p>
+<p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby, Postgre SQL and Ruby on Rails.</p>
 <p>Looking for a new opportunity as a remote web developer.</p>
 
 What I have build in the past:</br>
@@ -9,9 +9,9 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [React Redux Capstone project](https://stocks-market-data.netlify.app/)
+- 🔭 I’m currently working on: [Vet clinic](https://github.com/Hombre2014/vet_clinic)
 
-- 🌱 I’m currently learning: **Ruby**
+- 🌱 I’m currently learning: **Ruby, Postgre SQL**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
 - <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
@@ -93,6 +93,8 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 ---
 
 <h2 align="center">Some of me recent projects</h2></br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)
 
