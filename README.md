@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
 <h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
-<p>Student at Microverse full-stack web development program - HTML, CSS, JavaScript, React, Ruby, Postgre SQL and Ruby on Rails.</p>
+<p>Student at Microverse full-stack web development program - HTML, CSS, JavaScript, React, Redux, Ruby, Postgre SQL and Ruby on Rails.</p>
 <p>Looking for a new opportunity as a remote web developer.</p>
 
 What I have build in the past:</br>
@@ -9,7 +9,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [Vet clinic](https://github.com/Hombre2014/vet_clinic)
+- 🔭 I’m currently working on: [School Library](https://github.com/Hombre2014/School-library)
 
 - 🌱 I’m currently learning: **Ruby, Postgre SQL**
 
@@ -97,6 +97,8 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)
 
