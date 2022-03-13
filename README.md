@@ -94,21 +94,21 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 <h2 align="center">Some of my recent projects</h2></br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)<a href="https://send-ethereum.netlify.app/" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)<a href="https://stocks-market-data.netlify.app/" style="margin-left: 1rem;">Live link</a> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://send-ethereum.netlify.app/" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)<a href="https://chamkoriyski.me/Leaderboard/dist/" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project)<a href="https://chamkoriyski.me/JS_Capstone_project/dist/" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians)<a href="https://yuriy-math-magicians.netlify.app/" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store)<a href="https://yuriy-book-store.netlify.app/" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Space-Travelers)](https://github.com/Hombre2014/Space-Travelers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Space-Travelers)](https://github.com/Hombre2014/Space-Travelers)<a href="https://startreck.netlify.app/" style="margin-left: 1rem;">Live link</a>
 
 ---
 
