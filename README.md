@@ -9,7 +9,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [School Library](https://github.com/Hombre2014/School-library)
+- 🔭 I’m currently working on: [TDD Project](https://github.com/anuarshaidenov/TDD-project)
 
 - 🌱 I’m currently learning: **Ruby, Postgre SQL**
 
