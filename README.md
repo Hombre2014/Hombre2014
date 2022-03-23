@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
+<h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
 
 <p>Student at Microverse full-stack web development program - HTML, CSS, JavaScript, React, Redux, Ruby, Postgre SQL and Ruby on Rails.
 Looking for a new opportunity as a remote web developer.</p>
@@ -9,7 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [TDD Project](https://github.com/anuarshaidenov/TDD-project)
+- 🔭 I’m currently working on: [Catalog of my things Ruby group capstone project](https://github.com/Hombre2014/Catalog-of-my-things)
 
 - 🌱 I’m currently learning: **Ruby, Postgre SQL**
 
@@ -127,4 +128,3 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 </p>
 
 <h2 align="center"><a href="https://app.daily.dev/Hombre2014"><img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
-<h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
