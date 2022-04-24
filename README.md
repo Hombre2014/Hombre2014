@@ -10,7 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [Catalog of my things Ruby group capstone project](https://github.com/Hombre2014/Catalog-of-my-things)
+- 🔭 I’m currently working on: [Recipe app](https://github.com/Hombre2014/Recipe-App)
 
 - 🌱 I’m currently learning: **Ruby, Postgre SQL, Rails, SQLite3**
 
