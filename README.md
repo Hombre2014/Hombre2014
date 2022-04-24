@@ -101,9 +101,9 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)<a href="https://send-ethereum.netlify.app/" style="margin-left: 1rem;"> Live link</a>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)<a href="https://stocks-market-data.netlify.app/" style="margin-left: 1rem;"> Live link</a> -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)<a href="https://stocks-market-data.netlify.app/" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://send-ethereum.netlify.app/" style="margin-left: 1rem;"> Live link</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://yuriy-cryptoverse.netlify.app/" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)<a href="https://chamkoriyski.me/Leaderboard/dist/" style="margin-left: 1rem;"> Live link</a>
 
