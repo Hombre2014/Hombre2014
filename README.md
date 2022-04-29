@@ -10,7 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [Recipe app](https://github.com/Hombre2014/Recipe-App)
+- 🔭 I’m currently working on: [Budget tracker](https://github.com/Hombre2014/Budget)
 
 - 🌱 I’m currently learning: **Ruby, Postgre SQL, Rails, SQLite3**
 
@@ -99,11 +99,15 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 <h2 align="center">Some of my recent projects</h2></br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Budget)](https://github.com/Hombre2014/Budget)<a href="https://yuriy-budget-tracker.herokuapp.com/" target="_blank" rel="noreferrer" style="margin-left: 1rem;"> Live link</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Recipe-App)](https://github.com/Hombre2014/Recipe-App)<a href="https://world-best-recipes.herokuapp.com/" target="_blank" rel="noreferrer" style="margin-left: 1rem;"> Live link</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)<a href="https://send-ethereum.netlify.app/" target="_blank" rel="noreferrer" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Stocks-market)](https://github.com/Hombre2014/Stocks-market)<a href="https://stocks-market-data.netlify.app/" target="_blank" rel="noreferrer" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://yuriy-cryptoverse.netlify.app/" target="_blank" rel="noreferrer"style="margin-left: 1rem;"> Live link</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://yuriy-cryptoverse.netlify.app/" target="_blank" rel="noreferrer" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)<a href="https://chamkoriyski.me/Leaderboard/dist/" target="_blank" rel="noreferrer" style="margin-left: 1rem;"> Live link</a>
 
