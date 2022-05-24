@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
-<h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
+<h2 align="center">A passionate Full-stack Web Developer</h2></br>
 
 <p>Student at Microverse full-stack web development program - HTML, CSS, JavaScript, React, Redux, Ruby, Postgre SQL and Ruby on Rails.
 Looking for a new opportunity as a remote web developer.</p>
@@ -10,7 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [Final Capstone](https://github.com/Hombre2014/Book-a-class)
+- 🔭 I’m currently working on: [React Portfolio](https://github.com/Hombre2014/react_portfolio)
 
 - 🌱 I’m currently learning: **Many new things**
 
