@@ -43,9 +43,9 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 <!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Hombre2014/Hombre2014&type=Date)](https://star-history.com/#Hombre2014/Hombre2014&Date) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=Hombre2014/Hombre2014&type=Date)](https://star-history.com/#Hombre2014/Hombre2014&Date)
 
----
+--- -->
 
 <h2 align="center">Languages and Tools:</h2>
 </br>
