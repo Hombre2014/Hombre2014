@@ -10,7 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 ---
 
-- 🔭 I’m currently working on: [My React Portfolio](https://github.com/Hombre2014/My-React-Portfolio)
+- 🔭 I’m currently working on: [Shopping List](https://github.com/Hombre2014/Shopping-list)
 
 - 🌱 I’m currently learning: **Many new things**
 
