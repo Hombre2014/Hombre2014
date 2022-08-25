@@ -103,11 +103,15 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 <h2 align="center">Some of my recent projects</h2></br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Portfolio-tracker)](https://github.com/Hombre2014/Portfolio-tracker)<a href="https://yuriy-portfolio-tracker.herokuapp.com/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Dashboard)](https://github.com/Hombre2014/Dashboard)<a href="https://yuriy-dashboard.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=My-React-Portfolio)](https://github.com/Hombre2014/My-React-Portfolio)<a href="https://yuriy-portfolio.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Budget)](https://github.com/Hombre2014/Budget)<a href="https://yuriy-budget-tracker.herokuapp.com/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Recipe-App)](https://github.com/Hombre2014/Recipe-App)<a href="https://world-best-recipes.herokuapp.com/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Recipe-App)](https://github.com/Hombre2014/Recipe-App)<a href="https://world-best-recipes.herokuapp.com/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)<a href="https://send-ethereum.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
@@ -115,13 +119,13 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://yuriy-cryptoverse.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)<a href="https://chamkoriyski.me/Leaderboard/dist/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Leaderboard)](https://github.com/Hombre2014/Leaderboard)<a href="https://chamkoriyski.me/Leaderboard/dist/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project) <a href="https://chamkoriyski.me/JS_Capstone_project/dist/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians) <a href="https://yuriy-math-magicians.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=math-magicians)](https://github.com/Hombre2014/math-magicians) <a href="https://yuriy-math-magicians.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store) <a href="https://yuriy-book-store.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Book-store)](https://github.com/Hombre2014/Book-store) <a href="https://yuriy-book-store.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
 ---
 
