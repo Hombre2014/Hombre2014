@@ -117,7 +117,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://yuriy-cryptoverse.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=JS_Capstone_project)](https://github.com/Hombre2014/JS_Capstone_project) <a href="https://chamkoriyski.me/JS_Capstone_project/dist/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;">Live link</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=tiktik_app)](https://github.com/Hombre2014/tiktik_app) <a href="https://rodata-tiktik.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;">Live link</a>
 
 ---
 
