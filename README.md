@@ -120,7 +120,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 ---
 
 </br>
-<p align="left"> <a href="https://twitter.com/chamkoriyski" target="blank">
+<p align="left"> <a href="https://twitter.com/Chamkoriyski" target="blank">
 <img src="https://img.shields.io/twitter/follow/chamkoriyski?logo=twitter&style=for-the-badge" alt="chamkoriyski" />
 </a>
 </p></br>
