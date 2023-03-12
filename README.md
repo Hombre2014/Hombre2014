@@ -12,7 +12,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 
 - 🔭 I’m currently working on: [Portfolio tracker](https://github.com/Hombre2014/Portfolio-tracker)
 
-- 🌱 I’m currently learning: **Many new things**
+- 🌱 I’m currently learning: MERN stack and React Native
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
 - <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
@@ -40,12 +40,6 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hombre2014&" alt="hombre2014" /></p></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hombre2014&show_icons=true&locale=en&layout=compact" alt="hombre2014" /></p></br>
-
-<!-- ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Hombre2014/Hombre2014&type=Date)](https://star-history.com/#Hombre2014/Hombre2014&Date)
-
---- -->
 
 <h2 align="center">Languages and Tools:</h2>
 </br>
