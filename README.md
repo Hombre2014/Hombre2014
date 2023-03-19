@@ -11,7 +11,6 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 ---
 
 - 🔭 I’m currently working on: [Adaptive Learning Management System (LMS) mobile app](https://github.com/Hombre2014/lms)
-
 - 🌱 I’m currently learning: **MERN stack, React Native**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
@@ -40,12 +39,6 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hombre2014&" alt="hombre2014" /></p></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hombre2014&show_icons=true&locale=en&layout=compact" alt="hombre2014" /></p></br>
-
-<!-- ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Hombre2014/Hombre2014&type=Date)](https://star-history.com/#Hombre2014/Hombre2014&Date)
-
---- -->
 
 <h2 align="center">Languages and Tools:</h2>
 </br>
@@ -120,13 +113,16 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https
 ---
 
 </br>
-<p align="left"> <a href="https://twitter.com/chamkoriyski" target="blank">
-<img src="https://img.shields.io/twitter/follow/chamkoriyski?logo=twitter&style=for-the-badge" alt="chamkoriyski" />
+<p align="center"><a href="https://twitter.com/Chamkoriyski" target="blank">
+<img src="https://img.shields.io/twitter/follow/chamkoriyski?logo=twitter&style=for-the-badge" alt="chamkoriyski" style="margin-right: 1rem;" />
 </a>
-</p></br>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=hombre2014&label=Profile%20views&color=0e75b6&style=flat" alt="hombre2014" />
+<img src="https://komarev.com/ghpvc/?username=hombre2014&label=Profile%20views&color=0e75b6&style=flat" alt="hombre2014" style="margin-right: 1rem;"/>
+<a href="https://www.hackerrank.com/chamkoriyski" rel="nofollow"><img src="https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<h2 align="center"><a href="https://app.daily.dev/Hombre2014"><img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
+<<<<<<< HEAD
+
+# <h2 align="center"><a href="https://app.daily.dev/Hombre2014"><img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
+
+<h2 align="center" style="margin-top: 2rem;"><a href="https://app.daily.dev/Hombre2014"><img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
+>>>>>>> d61e7180a8acef5718e0f37334757e268f6bde09
