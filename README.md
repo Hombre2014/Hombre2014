@@ -6,11 +6,11 @@ Looking for a new opportunity as a remote web developer.</p>
 
 What I have build in the past:</br>
 From a single static web site: [Heliantheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
-To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https://heliantheae.bg/en)
+To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https://heliantheae.bg)
 
 ---
 
-- 🔭 I’m currently working on: [Adaptive Learning Management System (LMS) mobile app](https://github.com/Hombre2014/lms)
+- 🔭 I’m currently working on: [Genius](https://github.com/Hombre2014/Genius)
 - 🌱 I’m currently learning: **MERN stack**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
