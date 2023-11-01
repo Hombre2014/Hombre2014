@@ -6,7 +6,7 @@ Looking for a new opportunity as a remote web developer.</p>
 
 What I have build in the past:</br>
 From a single static web site: [Heliantheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
-To full blown dynamic website, blog and online store: [Heliantheae v.3.21](https://heliantheae.bg)
+To full blown dynamic website, blog and online store: [Heliantheae v.3+](https://en.heliantheae.bg/)
 
 ---
 
