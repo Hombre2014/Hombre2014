@@ -10,7 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3+](https:/
 
 ---
 
-- 🔭 I’m currently working on: [Genius](https://github.com/Hombre2014/Genius)
+- 🔭 I’m currently working on: [Ai Companion](https://github.com/Hombre2014/ai-companion)
 - 🌱 I’m currently learning: **MERN stack**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
