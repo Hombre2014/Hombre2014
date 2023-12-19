@@ -10,11 +10,7 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3+](https:/
 
 ---
 
-<<<<<<< HEAD
 - 🔭 I’m currently working on: [AI Companion](https://github.com/Hombre2014/ai-companion)
-=======
-- 🔭 I’m currently working on: [Ai Companion](https://github.com/Hombre2014/ai-companion)
->>>>>>> 3b553dd2e719eebe3681c1d4979ae2b4f39ed8fc
 - 🌱 I’m currently learning: **MERN stack**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a> -<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
