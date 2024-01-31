@@ -4,16 +4,12 @@
 <p>Alumni from Microverse's Full stack web development program - HTML, CSS, JavaScript, React, Redux, Ruby, Postgre SQL and Ruby on Rails.
 Looking for a new opportunity as a remote web developer.</p>
 
-<!-- What I have build in the past:</br>
-From a single static web site: [Heliantheae v.2.01](https://heliantheae.netlify.app/en/index_en.html) (prototype)</br>
-To full blown dynamic website, blog and online store: [Heliantheae v.3+](https://en.heliantheae.bg/) -->
-
 ---
 
 - 🔭 I’m currently working on: [AI Companion](https://github.com/Hombre2014/ai-companion)
 - 🌱 I’m currently learning: **MERN stack**
 
-- 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a> -<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
+- 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a> -<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a> 👨‍💻 I am on: [![Peerlist](https://github-readme-badge.peerlist.io/api/thedev)](https://peerlist.io/thedev)
 
 </br>
 <h2 align="center">Connect with me:</h2>
@@ -48,15 +44,13 @@ To full blown dynamic website, blog and online store: [Heliantheae v.3+](https:/
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Portfolio-tracker)](https://github.com/Hombre2014/Portfolio-tracker)<a href="https://portfolio-tracker-production.up.railway.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Dashboard)](https://github.com/Hombre2014/Dashboard)<a href="https://yuriy-dashboard.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Genius)](https://github.com/Hombre2014/Genius)<a href="https://my-tools.ai" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+
+<a href="https://www.producthunt.com/posts/my-tools-ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-my&#0045;tools&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=436299&theme=light" alt="My&#0032;tools&#0046;ai - Best&#0032;AI&#0032;tools&#0032;for&#0032;developers&#0032;and&#0032;creators&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=tiktik_app)](https://github.com/Hombre2014/tiktik_app) <a href="https://rodata-tiktik.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;">Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=My-React-Portfolio)](https://github.com/Hombre2014/My-React-Portfolio)<a href="https://yuriy-portfolio.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Budget)](https://github.com/Hombre2014/Budget)<a href="https://yuriy-budget-tracker.herokuapp.com/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Send-Crypto)](https://github.com/Hombre2014/Send-Crypto)<a href="https://send-ethereum.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Cryptoverse)](https://github.com/Hombre2014/Cryptoverse)<a href="https://yuriy-cryptoverse.netlify.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
