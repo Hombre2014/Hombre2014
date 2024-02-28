@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
 <h2 align="center">A passionate Full-stack Web Developer</h2></br>
+<h2 align="center"><a href="https://app.daily.dev/Hombre2014">
+<img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
 
 <p>Alumni from Microverse's Full stack web development program - HTML, CSS, JavaScript, React, Redux, Ruby, Postgre SQL and Ruby on Rails.
 Looking for a new opportunity as a remote web developer.</p>
 
 ---
 
-- 🔭 I’m currently working on: [AI Companion](https://github.com/Hombre2014/ai-companion)
-- 🌱 I’m currently learning: **MERN stack**
+- 🔭 I’m currently working on: [Next.js v14 Auth.js v5](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial)
+- 🌱 I’m currently learning: **Node.js**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%; margin-left: 0.5rem;">
 - </a> -<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%; margin-left: 0.5rem;">
@@ -60,9 +62,7 @@ Looking for a new opportunity as a remote web developer.</p>
 
 ---
 
-<h3 align="center">Support:</h3></br>
+<h3 align="center">If you like my projects and care about my work:</h3></br>
 <p align="center"><a href="https://www.buymeacoffee.com/chamkoriyski"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamkoriyski" /></a></p><br><br>
 <!-- <a href="https://www.hackerrank.com/chamkoriyski" rel="nofollow"><img src="https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;"></a> -->
 </p>
-
-# <h2 align="center"><a href="https://app.daily.dev/Hombre2014"><img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
