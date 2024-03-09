@@ -8,7 +8,7 @@ Looking for a new opportunity as a remote web developer.</p>
 
 ---
 
-- 🔭 I’m currently working on: [Job Tracker](https://github.com/Hombre2014/job-tracker-frontend)
+- 🔭 I’m currently working on: [Job Tracker Fronted](https://github.com/Hombre2014/job-tracker-frontend)
 - 🌱 I’m currently learning: **Node.js**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%; margin-left: 0.5rem;">
