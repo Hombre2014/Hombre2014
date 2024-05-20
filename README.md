@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://app.daily.dev/Hombre2014">
 <img src="https://api.daily.dev/devcards/db2968d321b04e23b66c51e1359a7ac3.png?r=u3x" width="300" alt="Yuriy Chamkoriyski's Dev Card"/></a></h2>
 
-<p>Alumni from Microverse's Full stack web development program - HTML, CSS, JavaScript, React, Redux, Ruby, Postgre SQL and Ruby on Rails.
+<p>Alumni from Microverse's Full stack web development program - HTML, CSS, JavaScript, React, Next.js, Redux, Ruby, Postgre SQL and Ruby on Rails.
 Looking for a new opportunity as a remote web developer.</p>
 
 ---
