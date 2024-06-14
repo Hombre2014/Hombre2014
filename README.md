@@ -9,7 +9,7 @@ Looking for a new opportunity as a remote web developer.</p>
 ---
 
 - 🔭 I’m currently working on: [Job Tracker Fronted](https://github.com/Hombre2014/job-tracker-frontend)
-- 🌱 I’m currently learning: **Node.js**
+- 🌱 I’m currently learning: **Node**
 
 - 📫 How to reach me: <a href="mailto:chamkoriyski@gmail.com"><img src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-chamkoriyski@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%; margin-left: 0.5rem;">
 - </a> -<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/Hombre2014"><img src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%; margin-left: 0.5rem;">
