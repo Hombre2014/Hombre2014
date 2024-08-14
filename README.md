@@ -58,11 +58,9 @@ Looking for a new opportunity as a remote web developer.</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=Budget)](https://github.com/Hombre2014/Budget)<a href="https://yuriy-budget-tracker.herokuapp.com/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=share-prompts)](https://github.com/Hombre2014/share-prompts)<a href="https://promptopia-hombre2014.vercel.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hombre2014&repo=carepulse)](https://github.com/Hombre2014/carepulse)<a href="https://carepulse-lovat.vercel.app/" target="_blank" rel="noreferrer noopener" style="margin-left: 1rem;"> Live link</a>
 
 ---
 
 <h3 align="center">If you like my projects and care about my work:</h3></br>
 <p align="center"><a href="https://www.buymeacoffee.com/chamkoriyski"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamkoriyski" /></a></p><br><br>
-<!-- <a href="https://www.hackerrank.com/chamkoriyski" rel="nofollow"><img src="https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;"></a> -->
-</p>
